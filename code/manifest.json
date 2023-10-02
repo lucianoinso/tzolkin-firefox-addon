@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Tzolkin calculator",
-  "version": "1.2",
+  "version": "1.20",
   "description": "Presents a right-click menu item to open a link to the Kin calculation given a selected date.",
   "background": {
     "scripts": ["background.js"]
